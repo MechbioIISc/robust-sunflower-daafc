@@ -33,6 +33,7 @@ sections:
         media_width: fifty
         title: 'Ageing and cancer '
         subtitle: Understanding correlation between age and cancer
+        image: /images/Research 2.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
