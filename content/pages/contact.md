@@ -51,9 +51,6 @@ sections:
         image_has_padding: true
       - title: Follow us
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
         content_align: center
         actions:
           - label: Get Support
