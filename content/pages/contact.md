@@ -18,7 +18,7 @@ sections:
         content_align: center
         actions:
           - label: to vacancies
-            url: /general-enquiries
+            url: /Vacancies
             style: link
             has_icon: true
             icon: arrow-right
