@@ -33,6 +33,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
+        title: 'Ageing and cancer '
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
