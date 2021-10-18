@@ -31,9 +31,10 @@ sections:
         image_has_padding: true
       - title: Help & Support
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: >
+          Enter the main gate, take the first right, and at the end of the road
+          there is a T junction, where you will find the Biochemistry building.
+          In this building you can find us.
         content_align: center
         actions:
           - label: Get Support
