@@ -4,9 +4,12 @@ sections:
   - type: hero_section
     title: Who are we?
     subtitle: 'A interdisciplinary research group at BSSE, IISc'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      We are a team of multidisciplinary researchers interested in understanding
+      biological systems using tools from applied cell-biology, bioengineering
+
+      and soft matter physics. Primarily, we study mechanics and biology of
+      epithelial tissues in the context of cancer. 
     actions:
       - label: Try Free
         url: /pricing
