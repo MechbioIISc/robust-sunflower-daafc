@@ -33,7 +33,7 @@ sections:
   - type: cta_section
     title: New members will be added soon
     actions:
-      - label: Compare Plans
+      - label: want to join us?
         url: /pricing
         style: primary
     align: center
