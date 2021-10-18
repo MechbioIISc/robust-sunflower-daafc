@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Who are we?
-    subtitle: 'A interdisciplinary research group at BSSE, IISc'
     content: >
       We are a team of multidisciplinary researchers interested in understanding
       biological systems using tools from applied cell-biology, bioengineering
