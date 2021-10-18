@@ -53,7 +53,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: follow us
+          - label: Follow us
             url: /general-enquiries
             style: primary
             has_icon: true
