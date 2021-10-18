@@ -47,7 +47,7 @@ sections:
           biological heterogeneity is likely to be interactive and
           interdependent. But How? How do they crosstalk to regulate tissue
           function such as wound healing and epithelial defence against cancer?
-        image: images/about-1.jpg
+        image: /images/Research 3.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
