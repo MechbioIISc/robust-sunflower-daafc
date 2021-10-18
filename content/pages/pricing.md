@@ -41,9 +41,8 @@ sections:
       - title: Researcher/intern
         title_align: left
         content: >
-          If you have won a government fellowship or if you are motivated to do
-          a small stint with us as a part of your curriculum or to gain
-          experience, write to us.
+          If you are motivated to do a small research project us as a part of
+          your curriculum, or to gain research experience, write to us.
         content_align: left
         actions:
           - label: Start with Business
