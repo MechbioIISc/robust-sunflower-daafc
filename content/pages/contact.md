@@ -38,7 +38,7 @@ sections:
         content_align: center
         actions:
           - label: maps
-            url: /general-enquiries
+            url: 'https://goo.gl/maps/CxG4EVJgTtb2Lgcc7'
             style: secondary
             has_icon: true
             icon: arrow-right
