@@ -10,7 +10,7 @@ sections:
       and soft matter physics. Primarily, we study mechanics and biology of
       epithelial tissues in the context of cancer. 
     actions:
-      - label: Try Free
+      - label: Vision
         url: /pricing
         style: primary
       - label: Learn More
