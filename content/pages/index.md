@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Who are we?
-    subtitle: Optional hero section subtitle
+    subtitle: 'A interdisciplinary research group at BSSE, IISc'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
