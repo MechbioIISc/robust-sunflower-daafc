@@ -24,10 +24,8 @@ sections:
         media_width: fifty
       - title: Sindhu M.
         subtitle: PhD Student
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          watch this space for updates
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
