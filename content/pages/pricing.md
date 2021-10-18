@@ -55,29 +55,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: grid_section
-    title: What do we expect and what can you expect?
-    grid_items:
-      - title: Our expectation
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Our offer
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-      - {}
-      - {}
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: true
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
 seo:
   title: vacancies
   description: This is the vacancy page
