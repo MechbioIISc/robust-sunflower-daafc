@@ -54,7 +54,7 @@ sections:
       - title: >-
           Bio-Systems Science and Engineering: an interdisciplinary centre at
           IISc
-        image: images/brandon-guidelines.png
+        image: /images/bsse.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
