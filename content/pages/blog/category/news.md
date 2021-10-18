@@ -3,7 +3,7 @@ title: News
 sections:
   - type: hero_section
     title: News
-    subtitle: The optional subtitle
+    subtitle: Watch this space
     align: center
     padding_top: medium
     padding_bottom: none
