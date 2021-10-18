@@ -2,7 +2,7 @@
 title: Hilary Ouse
 sections:
   - type: hero_section
-    title: Hilary Ouse
+    title: Medhavi Vishwakarma
     subtitle: The optional subtitle
     align: center
     padding_top: medium
