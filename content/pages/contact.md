@@ -37,7 +37,7 @@ sections:
           In this building you can find us.
         content_align: center
         actions:
-          - label: Get Support
+          - label: maps
             url: /general-enquiries
             style: secondary
             has_icon: true
