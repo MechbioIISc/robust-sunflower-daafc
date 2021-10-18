@@ -3,7 +3,6 @@ title: Features
 sections:
   - type: hero_section
     title: Ongoing Projects
-    subtitle: Epithelial Defense Against Cancer
     background_color: primary
   - type: features_section
     features:
