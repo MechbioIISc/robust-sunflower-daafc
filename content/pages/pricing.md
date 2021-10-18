@@ -96,7 +96,7 @@ sections:
     background_color: secondary
 seo:
   title: vacancies
-  description: This is the pricing page
+  description: This is the vacancy page
   extra:
     - name: 'og:type'
       value: website
