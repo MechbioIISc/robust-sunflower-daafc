@@ -34,7 +34,7 @@ sections:
     title: New members will be added soon
     actions:
       - label: want to join us?
-        url: /pricing
+        url: /vacanc
         style: primary
     align: center
     padding_top: medium
