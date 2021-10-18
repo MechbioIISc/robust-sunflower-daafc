@@ -34,7 +34,7 @@ sections:
         title: 'Ageing and cancer '
         subtitle: Understanding correlation between age and cancer
         image: /images/Research 2.jpg
-      - title: Section Title Three
+      - title: Heterogeneity and epithelial function
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
