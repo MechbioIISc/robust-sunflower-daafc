@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: What we do
     features:
-      - title: The Big Title For the Feature
+      - title: Working at the interface of biology and physics
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
