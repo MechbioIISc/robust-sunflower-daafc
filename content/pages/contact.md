@@ -13,9 +13,8 @@ sections:
     grid_items:
       - title: Vacancies
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |
+          Come work with us.
         content_align: center
         actions:
           - label: Get Support
