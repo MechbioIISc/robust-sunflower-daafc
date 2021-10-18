@@ -13,7 +13,7 @@ sections:
       - label: Vision
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: The team
         url: /features
         style: secondary
     image: /images/welcome-8838028d.png
