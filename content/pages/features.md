@@ -17,7 +17,7 @@ sections:
           competitive advantage over host epithelial tissues? Can we generate
           novel anticancer therapies which enhances our body’s defence mechanism
           against cancer?
-        image: images/about-3.jpg
+        image: /images/Research 1.jpg
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
