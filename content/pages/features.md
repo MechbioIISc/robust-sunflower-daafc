@@ -36,10 +36,17 @@ sections:
         image: /images/Research 2.jpg
       - title: Heterogeneity and epithelial function
         subtitle: The restlessness
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Recent technological and computational advances have allowed us to
+          describe behaviour of epithelia using mesoscale physical principles.
+          In such description, similar to glassy solids or dense particulate
+          matter, epithelial cells are shown to display characteristics of
+          dynamic heterogeneity. In addition to this physical heterogeneity,
+          epithelial cell biology reveals an intrinsic cellular heterogeneity
+          arising from variations in gene expression pattern. Physical and
+          biological heterogeneity is likely to be interactive and
+          interdependent. But How? How do they crosstalk to regulate tissue
+          function such as wound healing and epithelial defence against cancer?
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
