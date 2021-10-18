@@ -44,10 +44,7 @@ sections:
           If you are motivated to do a small research project us as a part of
           your curriculum, or to gain research experience, write to us.
         content_align: left
-        actions:
-          - label: Start with Business
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
     grid_cols: three
