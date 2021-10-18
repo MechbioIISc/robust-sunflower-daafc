@@ -51,7 +51,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Researcher/intern
-        subtitle: Optional subtitle
         title_align: left
         content: |-
           ---
