@@ -1,13 +1,6 @@
 ---
 title: General
 sections:
-  - type: hero_section
-    title: General
-    subtitle: The optional subtitle
-    align: center
-    padding_top: medium
-    padding_bottom: none
-    background_color: none
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
