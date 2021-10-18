@@ -3,7 +3,7 @@ title: Hilary Ouse
 sections:
   - type: hero_section
     title: Medhavi Vishwakarma
-    subtitle: The optional subtitle
+    subtitle: 'Assistant Professor, group leader'
     align: center
     padding_top: medium
     padding_bottom: none
