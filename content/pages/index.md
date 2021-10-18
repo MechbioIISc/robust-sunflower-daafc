@@ -37,7 +37,7 @@ sections:
           such as automated cell segmentation and cell tracking.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /
             style: primary
             has_icon: true
             icon: arrow-right
