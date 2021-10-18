@@ -14,7 +14,7 @@ sections:
         url: /pricing
         style: primary
       - label: The team
-        url: /features
+        url: /about/
         style: secondary
     image: /images/welcome-8838028d.png
     image_alt: Hero section placeholder image
