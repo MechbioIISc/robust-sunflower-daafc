@@ -54,7 +54,6 @@ sections:
       - title: >-
           Bio-Systems Science and Engineering: an interdisciplinary centre at
           IISc
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
