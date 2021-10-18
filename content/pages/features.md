@@ -35,7 +35,7 @@ sections:
         subtitle: Understanding correlation between age and cancer
         image: /images/Research 2.jpg
       - title: Heterogeneity and epithelial function
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: The restlessness
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
