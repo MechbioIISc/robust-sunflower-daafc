@@ -9,10 +9,15 @@ sections:
     features:
       - title: Medhavi Vishwakarma
         subtitle: Assistant Professor
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Biological systems are driven by a complex interplay between
+          bio-chemical and physical processes. I am interested in studying
+          biosystems in a multidisciplinary framework. We combine tools of
+          applied cell biology with concepts of soft matter physics and
+          computational tools to unravel interesting phenomena in biological
+          systems. If you are interested in joining us, or looking for a
+          collaboration, or just want to have a chat about research, please get
+          in touch.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
