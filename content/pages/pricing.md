@@ -56,7 +56,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: What do we expect
+    title: What do we expect and what can you expect?
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
