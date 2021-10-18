@@ -54,7 +54,7 @@ sections:
         content_align: center
         actions:
           - label: Follow us
-            url: /general-enquiries
+            url: 'https://twitter.com/medhavishwa?lang=en'
             style: primary
             has_icon: true
             icon: arrow-right
