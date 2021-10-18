@@ -30,10 +30,8 @@ sections:
           possible i.e. aging influence the overall tissue mechanics and
           subsequently impair our tissue’s defence mechanism against cancer. 
         video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          allow="accelerometer; autoplay; encrypted-media; gyroscope;
+          picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
         title: 'Ageing and cancer '
