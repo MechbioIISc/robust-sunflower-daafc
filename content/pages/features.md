@@ -21,10 +21,14 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: >
+          Aging is considered as a pro-tumorigenic state and constitutes the
+          single most important risk factor for cancer development. The
+          causative relation between ageing and cancer is majorly considered to
+          be the accumulation of oncogenic mutations over long period of time.
+          However, an alternative, but not mutually exclusive hypothesis is
+          possible i.e. aging influence the overall tissue mechanics and
+          subsequently impair our tissue’s defence mechanism against cancer. 
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
