@@ -11,7 +11,9 @@ categories:
 tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/sourcebit.yaml
-excerpt: We welcome the frst member of thegrioup
+excerpt: >-
+  We are delighted to welcome the first member of the group. Please connect with
+  her
 thumb_image_alt: Post 4 placeholder image
 image: images/classic/post-4.png
 image_alt: Post 4 placeholder image
