@@ -31,7 +31,7 @@ sections:
         media_position: left
         media_width: fifty
   - type: cta_section
-    title: This is a Call to Action
+    title: New members will be added soon
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
