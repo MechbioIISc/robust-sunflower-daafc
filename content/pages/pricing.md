@@ -3,7 +3,7 @@ title: Vacancies
 sections:
   - type: hero_section
     title: Want to join us
-    subtitle: We are always looking for brilliant minds to join us
+    subtitle: Please get in touch!
     align: center
     padding_top: large
     padding_bottom: small
