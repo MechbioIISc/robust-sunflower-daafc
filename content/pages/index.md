@@ -51,9 +51,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: >-
-          Bio-Systems Science and Engineering: an interdisciplinary centre at
-          IISc
+      - title: Part of the Bio-Systems Science and Engineering centre at IISc
         image: /images/bsse.png
         image_alt: Brandon Guidelines
         media_position: right
