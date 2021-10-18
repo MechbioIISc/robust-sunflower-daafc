@@ -58,7 +58,7 @@ sections:
   - type: grid_section
     title: What do we expect and what can you expect?
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
+      - title: Our expectation
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
