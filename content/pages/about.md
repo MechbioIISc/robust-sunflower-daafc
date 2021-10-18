@@ -26,7 +26,7 @@ sections:
         subtitle: PhD Student
         content: |
           watch this space for updates
-        image: images/about-2.jpg
+        image: /images/0206_155000.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
