@@ -28,11 +28,6 @@
                 "style": "link"
             },
             {
-                "label": "News",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
                 "label": "Publications",
                 "url": "/style-guide",
                 "style": "link"
