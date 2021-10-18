@@ -52,10 +52,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: cta_section
-    actions:
-      - label: Compare Plans
-        url: /pricing
-        style: primary
+    actions: []
     actions_position: right
     align: left
     padding_top: medium
