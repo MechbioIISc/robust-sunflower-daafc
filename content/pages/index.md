@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Who we are?
+    title: Welcome!
     content: >
       We are a team of multidisciplinary researchers interested in understanding
       biological systems using tools from applied cell-biology, bioengineering
