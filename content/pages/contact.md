@@ -17,7 +17,7 @@ sections:
           Come work with us.
         content_align: center
         actions:
-          - label: Get Support
+          - label: to vacancies
             url: /general-enquiries
             style: link
             has_icon: true
