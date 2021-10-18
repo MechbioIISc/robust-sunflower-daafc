@@ -29,7 +29,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Help & Support
+      - title: Visit us
         title_align: center
         content: >
           Enter the main gate, take the first right, and at the end of the road
