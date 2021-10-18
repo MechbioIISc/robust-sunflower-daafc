@@ -28,10 +28,13 @@ sections:
     title: What we do
     features:
       - title: Working at the interface of biology and physics
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We use experimental techniques such as gene editing, high resolution
+          live cell imaging, traction force microscopy and reflection
+          interference contrast microscopy, in tandem with concepts from soft
+          matter physics to obtain a Bio-physical understanding of EDAC. To make
+          sense of our experiments, we complement them with computational tools
+          such as automated cell segmentation and cell tracking.
         actions:
           - label: Learn More
             url: /style-guide
