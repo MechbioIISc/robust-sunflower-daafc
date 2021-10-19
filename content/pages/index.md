@@ -32,9 +32,10 @@ sections:
           We use experimental techniques such as gene editing, high resolution
           live cell imaging, traction force microscopy and reflection
           interference contrast microscopy, in tandem with concepts from soft
-          matter physics to obtain a Bio-physical understanding of EDAC. To make
-          sense of our experiments, we complement them with computational tools
-          such as automated cell segmentation and cell tracking.
+          matter physics to obtain a Bio-physical understanding of various
+          epithelial functions. To make sense of our experiments, we complement
+          them with computational tools such as automated cell segmentation and
+          cell tracking.
         actions:
           - label: Learn More
             url: /features
