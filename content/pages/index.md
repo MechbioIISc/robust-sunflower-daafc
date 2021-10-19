@@ -52,7 +52,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Part of the Bio-Systems Science and Engineering centre at IISc
+      - title: Part of the Bio-Systems Science and Engineering center at IISc
         image: /images/bsse.png
         image_alt: Brandon Guidelines
         media_position: right
