@@ -25,7 +25,7 @@ sections:
       - title: Sindhu M.
         subtitle: PhD Student
         content: |
-          watch this space for updates
+          Hi, I have recently joined the EMBRG team.
         image: /images/0206_155000.jpg
         image_alt: People in a conference room
         media_position: left
