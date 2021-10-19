@@ -18,7 +18,7 @@ sections:
           systems. If you are interested in joining us, or looking for a
           collaboration, or just want to have a chat about research, please get
           in touch.
-        image: /images/IMG-0061.jpg
+        image: /images/PHOTO-2021-10-18-21-48-53.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
