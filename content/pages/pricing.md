@@ -28,7 +28,7 @@ sections:
 
 
           We are constantly looking for excellent postdoctoral candidates. If
-          you have finished your PhD or if you are about to and your research
+          you have finished your PhD or if you are about to, and your research
           interest matches with ours, please write to us. We will support your
           application for various available fellowships.
         content_align: left
