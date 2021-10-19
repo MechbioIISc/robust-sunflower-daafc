@@ -41,8 +41,9 @@ sections:
       - title: Researcher/intern
         title_align: left
         content: >
-          If you are motivated to do a small research project us as a part of
-          your curriculum, or to gain research experience, write to us.
+          If you are motivated to do a small research project with us, either as
+          a part of your curriculum or to gain research experience, please write
+          to us.
         content_align: left
         actions: []
         actions_align: left
