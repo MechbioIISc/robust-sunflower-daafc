@@ -17,7 +17,7 @@ sections:
           Come work with us.
         content_align: center
         actions:
-          - label: to vacancies
+          - label: available positions
             url: /pricing/
             style: link
             has_icon: true
