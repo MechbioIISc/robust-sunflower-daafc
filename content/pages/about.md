@@ -10,14 +10,13 @@ sections:
       - title: Medhavi Vishwakarma
         subtitle: Assistant Professor
         content: >
-          Biological systems are driven by a complex interplay between
-          bio-chemical and physical processes. I am interested in studying
-          biosystems in a multidisciplinary framework. We combine tools of
-          applied cell biology with concepts of soft matter physics and
-          computational tools to unravel interesting phenomena in biological
-          systems. If you are interested in joining us, or looking for a
-          collaboration, or just want to have a chat about research, please get
-          in touch.
+          Trained as a Bioengineer, I am interested in studying biosystems in a
+          multidisciplinary framework. In the lab, we combine tools of applied
+          cell biology with concepts of soft matter physics and computational
+          tools to unravel interesting phenomena in biological systems. Outside
+          lab, I enjoy playing badminton and taking long walks in the woods. If
+          you are interested in joining us, or looking for a collaboration, or
+          just want to have a chat about research, please get in touch.
         image: /images/PHOTO-2021-10-18-21-48-53.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
