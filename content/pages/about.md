@@ -23,8 +23,12 @@ sections:
         media_width: fifty
       - title: Sindhu M.
         subtitle: PhD Student
-        content: |
-          Hi, I have recently joined the EMBRG team.
+        content: >
+          Hi, I completed an Intl MSc(Hons) in Biological Sciences from
+          BITS-Pilani (2017-2021) and have joined the EMBRG as a PhD student in
+          August 2021. My research interest lies in cell biology broadly, and I
+          will be working on Epithelial Defense Against Cancer. I also enjoy
+          running, chess, poetry and reading.
         image: /images/0206_155000.jpg
         image_alt: People in a conference room
         media_position: left
