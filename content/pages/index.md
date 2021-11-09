@@ -76,7 +76,7 @@ sections:
     background_color: secondary
 seo:
   title: Medhavi Vishwakarma's research group
-  description: The preview of the DIY theme
+  description: Epithelial Mechanobiology Research Group at IISc
   extra:
     - name: 'og:type'
       value: website
