@@ -13,6 +13,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    background_image: /images/Indian_Institute_of_Science_IISc_official_website_DXOIl1u.jpeg
   - type: hero_section
     title: Welcome!
     content: >
