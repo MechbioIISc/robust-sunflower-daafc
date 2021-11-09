@@ -100,7 +100,7 @@
         ],
         "content": "&copy; Medhavi Vishwakarma; 2021"
     },
-    "domain": "https://medhavi-embrg-bsse.ac.in",
+    "domain": "https://https://medhavi-embrg-bsse.netlify.app",
     "announcement": {
         "has_anncmnt": false,
         "anncmnt_content": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
