@@ -75,7 +75,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
 seo:
-  title: Medhavi Vishwakarma's research group
+  title: Medhavi Vishwakarma - EMBRG
   description: Epithelial Mechanobiology Research Group at IISc
   extra:
     - name: 'og:type'
