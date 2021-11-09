@@ -108,5 +108,6 @@
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
         "anncmnt_id": "lorem-ipsum"
-    }
+    },
+    "favicon": "/images/welcome.jpg"
 }
