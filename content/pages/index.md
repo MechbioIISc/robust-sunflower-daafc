@@ -60,7 +60,6 @@ sections:
     feature_padding_vert: small
     background_color: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
