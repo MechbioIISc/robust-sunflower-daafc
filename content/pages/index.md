@@ -75,7 +75,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: Medhavi Vishwakarma's research group
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
