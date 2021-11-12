@@ -2,7 +2,12 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: >-
+      We are a team of multidisciplinary researchers interested in understanding
+      biological systems using tools from applied cell-biology, bioengineering
+
+      and soft matter physics. Primarily, we study mechanics and biology of
+      epithelial tissues in the context of cancer.
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
