@@ -59,7 +59,7 @@ sections:
             icon_position: right
         image: /images/contact.jpg
         image_alt: Feature 1 placeholder image
-        media_position: bottom
+        media_position: top
         media_width: sixty
     feature_padding_vert: small
     align: center
