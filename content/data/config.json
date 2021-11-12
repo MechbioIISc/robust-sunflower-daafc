@@ -98,7 +98,8 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Medhavi Vishwakarma; 2021"
+        "content": "&copy; Medhavi Vishwakarma; 2021",
+        "logo": "/images/welcome.jpg"
     },
     "domain": "https://https://medhavi-embrg-bsse.netlify.app",
     "announcement": {
