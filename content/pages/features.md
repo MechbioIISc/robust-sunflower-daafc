@@ -60,7 +60,7 @@ sections:
     has_border: false
     background_color: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Ongoing Projects
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
