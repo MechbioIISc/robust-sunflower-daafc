@@ -66,7 +66,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     background_color: secondary
   - type: features_section
