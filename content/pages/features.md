@@ -61,7 +61,6 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     title: Ongoing Projects
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
