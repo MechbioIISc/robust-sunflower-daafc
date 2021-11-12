@@ -5,7 +5,7 @@ sections:
     features: []
     feature_padding_vert: small
     align: center
-    padding_top: small
+    padding_top: medium
     padding_bottom: none
     has_border: false
     background_color: primary
