@@ -16,7 +16,6 @@ sections:
       - label: The team
         url: /about/
         style: secondary
-    image: /images/cover image.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
