@@ -33,7 +33,7 @@ sections:
         style: secondary
     image_alt: Hero section placeholder image
     media_position: bottom
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: none
     padding_bottom: none
