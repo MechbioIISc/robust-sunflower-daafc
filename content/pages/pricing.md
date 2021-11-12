@@ -5,7 +5,7 @@ sections:
     title: Want to join us ?
     subtitle: Please get in touch!
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: small
   - type: grid_section
     grid_items:
