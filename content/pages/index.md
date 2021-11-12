@@ -17,7 +17,7 @@ sections:
     background_image: /images/banner-ae6cd30f.jpeg
     title: Welcome to the webpage of EMBRG
   - type: hero_section
-    title: Welcome!
+    title: About us
     content: >
       We are a team of multidisciplinary researchers interested in understanding
       biological systems using tools from applied cell-biology, bioengineering
