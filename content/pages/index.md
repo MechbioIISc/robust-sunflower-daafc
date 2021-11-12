@@ -38,7 +38,6 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    image: /images/banner-ae6cd30f.jpeg
   - type: features_section
     title: What we do
     features:
