@@ -15,6 +15,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     title: Welcome to the webpage of EMBRG
+    background_image: /images/banner-ae6cd30f.jpeg
   - type: hero_section
     title: About us
     content: >
