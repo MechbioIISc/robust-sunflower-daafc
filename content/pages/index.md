@@ -20,6 +20,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    background_image: /images/banner-ae6cd30f.jpeg
   - type: hero_section
     title: Welcome!
     content: >
