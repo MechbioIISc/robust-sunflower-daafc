@@ -17,7 +17,7 @@ sections:
     title: Welcome to the webpage of EMBRG
     background_image: /images/banner-ae6cd30f.jpeg
   - type: hero_section
-    title: About us
+    title: Epithelial Mechano-Biology Research Group (EMBRG)
     content: >
       We are a team of multidisciplinary researchers interested in understanding
       biological systems using tools from applied cell-biology, bioengineering
