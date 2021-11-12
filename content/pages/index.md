@@ -32,7 +32,7 @@ sections:
         url: /about/
         style: secondary
     image_alt: Hero section placeholder image
-    media_position: left
+    media_position: bottom
     media_width: fifty
     align: left
     padding_top: none
