@@ -6,7 +6,7 @@ sections:
     subtitle: Please get in touch!
     align: center
     padding_top: none
-    padding_bottom: small
+    padding_bottom: none
   - type: grid_section
     grid_items:
       - title: PhD positions
