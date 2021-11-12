@@ -60,7 +60,7 @@ sections:
         image: /images/contact.jpg
         image_alt: Feature 1 placeholder image
         media_position: bottom
-        media_width: fourty
+        media_width: sixty
     feature_padding_vert: small
     align: center
     background_color: secondary
