@@ -7,6 +7,7 @@ sections:
     align: center
     padding_top: none
     padding_bottom: none
+    background_color: primary
   - type: grid_section
     grid_items:
       - title: PhD positions
