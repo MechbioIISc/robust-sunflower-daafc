@@ -15,9 +15,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - type: hero_section
-    title: Ongoing Projects
-    background_color: primary
   - type: features_section
     features:
       - title: EDAC
