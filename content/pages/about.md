@@ -34,7 +34,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Amrapali Datta
-        content: >
+        content: >+
           Hey!
 
 
@@ -46,8 +46,6 @@ sections:
           investigator in the field of translational cancer research. Outside
           lab, I enjoy swimming, dancing and reading.
 
-
-          ![](/images/Pic.jpg)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
