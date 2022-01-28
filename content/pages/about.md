@@ -33,7 +33,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - title: lorem-ipsum
+      - title: Amrapaali
         subtitle: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
