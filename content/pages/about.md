@@ -48,7 +48,7 @@ sections:
 
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         image: /images/Pic-00af1fc4.jpg
