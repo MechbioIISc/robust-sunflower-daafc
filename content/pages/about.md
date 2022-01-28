@@ -51,6 +51,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/Pic-00af1fc4.jpg
   - type: cta_section
     title: New members will be added soon
     actions:
