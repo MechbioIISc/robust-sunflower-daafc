@@ -52,6 +52,7 @@ sections:
         media_width: fourty
         align: left
         image: /images/Pic-00af1fc4.jpg
+        subtitle: PhD Student
   - type: cta_section
     title: New members will be added soon
     actions:
