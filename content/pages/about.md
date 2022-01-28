@@ -49,7 +49,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: fifty
+        media_width: fourty
         align: left
         image: /images/Pic-00af1fc4.jpg
   - type: cta_section
