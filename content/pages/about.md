@@ -17,7 +17,7 @@ sections:
           lab, I enjoy playing badminton and taking long walks in the woods. If
           you are interested in joining us, or looking for a collaboration, or
           just want to have a chat about research, please get in touch.
-        image: /images/PHOTO-2021-10-18-21-48-53.jpg
+        image: /images/IMG_2156.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
