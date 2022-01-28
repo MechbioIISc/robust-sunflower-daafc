@@ -32,7 +32,7 @@ sections:
         image: /images/0206_155000.jpg
         image_alt: People in a conference room
         media_position: left
-        media_width: fifty
+        media_width: fourty
       - title: Amrapali Datta
         content: >+
           Hey!
