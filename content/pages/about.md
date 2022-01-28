@@ -20,7 +20,7 @@ sections:
         image: /images/IMG_2156.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
-        media_width: fifty
+        media_width: fourty
       - title: Sindhu M.
         subtitle: PhD Student
         content: >
