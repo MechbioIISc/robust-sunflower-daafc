@@ -53,6 +53,34 @@ sections:
         align: left
         image: /images/Pic-00af1fc4.jpg
         subtitle: PhD Student
+              - title: Chandan Shringi
+        content: >+
+          Hello!!!
+
+        I joined Epithelial Mechanobiology lab in August 2022 as a PhD candidate after graduating in biotechnology to pursue my interest in cancer research. 
+        I am excited about the opportunities I’ll get here to learn and gain skills every day which will keep me motivated throughout my journey. 
+        My interests lie in translational oncology and cancer genomics. In addition to this, I enjoy playing video games. 
+        Want to know more about me? Visit https://chandan-shringi.github.io
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: right
+        media_width: fourty
+        align: left
+        image: /images/image001.jpg
+        subtitle: PhD Student
+        
+       - title: Sai Shyam
+        content: >+
+         Hello!!!
+       I am a UG Student at IISc, majoring in Biology. I am interested in understanding the process of wound healing and the impact aging has on the process. 
+       Outside lab, I enjoy walking along nature trails and cycling around the campus.
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: right
+        media_width: fourty
+        align: left
+        image: /images/image.png
+        subtitle: UG Student        
   - type: cta_section
     title: New members will be added soon
     actions:
